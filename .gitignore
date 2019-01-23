@@ -2,3 +2,6 @@
 *.csv
 *.rlp
 *.log
+*.ipynb_checkpoints/
+*2019/.ipynb_checkpoints/
+*2018/.ipynb_checkpoints/
